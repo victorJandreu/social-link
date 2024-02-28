@@ -1,18 +1,16 @@
 
 @font-face {
-    font-family: Inter-Regular;
+    font-family: "Inter-Regular";
     src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
   }
-  .intro-section .profession {
-    font-family: Inter-Regular;
-  }
+
 
 body{
     margin: 0;
     padding: 0;
     background-color: hsl(0, 0%, 8%);
     color: hsl(0, 0%, 100%);
-    font-family: "Inter-Regular";
+    font-family: "Inter-Regular", sans-serif;
 }
 
 *{
